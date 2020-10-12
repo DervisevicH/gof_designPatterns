@@ -1,0 +1,13 @@
+C:\Users\hadzira.dervisevic\source\repos\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.exe
+C:\Users\hadzira.dervisevic\source\repos\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.deps.json
+C:\Users\hadzira.dervisevic\source\repos\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.json
+C:\Users\hadzira.dervisevic\source\repos\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.dev.json
+C:\Users\hadzira.dervisevic\source\repos\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.dll
+C:\Users\hadzira.dervisevic\source\repos\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.pdb
+C:\Users\hadzira.dervisevic\source\repos\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csprojAssemblyReference.cache
+C:\Users\hadzira.dervisevic\source\repos\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfoInputs.cache
+C:\Users\hadzira.dervisevic\source\repos\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfo.cs
+C:\Users\hadzira.dervisevic\source\repos\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.dll
+C:\Users\hadzira.dervisevic\source\repos\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.pdb
+C:\Users\hadzira.dervisevic\source\repos\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\hadzira.dervisevic\source\repos\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.genruntimeconfig.cache
